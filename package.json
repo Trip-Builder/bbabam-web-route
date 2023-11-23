@@ -1,7 +1,7 @@
 {
   "name": "bbabam",
   "version": "0.1.0",
-  "homepage": "https://team-bbabam-bbabam.github.io/bbabam-web/",
+  "homepage": "https://trip-builder.github.io/bbabam-web-route/",
   "private": true,
   "dependencies": {
     "@react-google-maps/api": "^2.19.2",

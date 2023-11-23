@@ -55,7 +55,8 @@ abstract class BBabamFlowServiceListener {
     resultCount = 0;
 
     constructor() {
-        this.socket = io('http://3.36.119.217:4828/search', {
+       	this.socket = io('https://bbabam-apis.tripbuilder.co.kr/search', 
+	{
             // this.socket = io('http://localhost:4828/search', {
             autoConnect: false,
         });
