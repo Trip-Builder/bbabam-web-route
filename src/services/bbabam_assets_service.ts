@@ -13,7 +13,7 @@ export interface PlaceImageCardData {
 }
 
 class BBabamAssetsService {
-    baseUrl = 'https://bbabam.dshs.site';
+    baseUrl = 'http://3.36.119.217:4828';
     // baseUrl = 'http://localhost:4828';
 
     async loadImages(): Promise<PlaceImageCardData[]> {
