@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bbabam-web-route/static/css/main.d0df811e.css",
-    "main.js": "/bbabam-web-route/static/js/main.dc55520d.js",
+    "main.js": "/bbabam-web-route/static/js/main.57527c49.js",
     "static/js/787.6887b2ff.chunk.js": "/bbabam-web-route/static/js/787.6887b2ff.chunk.js",
     "static/media/background.png": "/bbabam-web-route/static/media/background.31ed4437ef9257817f7a.png",
     "static/media/rough_paper_small.svg": "/bbabam-web-route/static/media/rough_paper_small.3759236a6451a72fbc5989b92aac2a7d.svg",
@@ -21,11 +21,11 @@
     "static/media/ban_icon.svg": "/bbabam-web-route/static/media/ban_icon.5914bea8488d747d4c206d4a341d3c5c.svg",
     "static/media/back_icon.svg": "/bbabam-web-route/static/media/back_icon.8636332a9f02cfb623e9bc8cd07823e0.svg",
     "main.d0df811e.css.map": "/bbabam-web-route/static/css/main.d0df811e.css.map",
-    "main.dc55520d.js.map": "/bbabam-web-route/static/js/main.dc55520d.js.map",
+    "main.57527c49.js.map": "/bbabam-web-route/static/js/main.57527c49.js.map",
     "787.6887b2ff.chunk.js.map": "/bbabam-web-route/static/js/787.6887b2ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0df811e.css",
-    "static/js/main.dc55520d.js"
+    "static/js/main.57527c49.js"
   ]
 }
