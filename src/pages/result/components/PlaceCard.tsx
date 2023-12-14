@@ -227,7 +227,7 @@ function PlaceCard() {
     ]);
 
     const { isLoaded } = useLoadScript({
-        googleMapsApiKey: 'AIzaSyDtP_ERRZb4n-Z11zu-AxRH7875uNgBw4Y',
+        googleMapsApiKey: 'AIzaSyAM62j-Hds1-Rx4zqXrkdsNJH8O7O-SR6M',
     });
 
     const [appearAnimation] = useSprings(
