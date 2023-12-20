@@ -284,7 +284,7 @@ function getAllMarks(pathData: PathData) {
 function PathCard() {
     const bbabamFlowStore = useBBabamFlow();
     const { isLoaded } = useLoadScript({
-        googleMapsApiKey: 'AIzaSyDtP_ERRZb4n-Z11zu-AxRH7875uNgBw4Y',
+        googleMapsApiKey: 'AIzaSyAM62j-Hds1-Rx4zqXrkdsNJH8O7O-SR6M',
     });
     const mapRef = useRef<GoogleMap>(null);
     const [currentCenter, setCurrentCenter] = useState<{
